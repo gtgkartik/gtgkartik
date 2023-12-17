@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Learning Web Dev<br>👯 I’m looking to collaborate on Web dev projects, AI/ML projects<br>🤝 I’m looking for help with Learning LLM'S and Building one<br>🌱 I’m currently learning Full stack Web Dev, Databases, Next Js, AWS SAA (s)
+🔭 I’m currently working on Learning Web Dev<br>👯 I’m looking to collaborate on Web dev projects, AI/ML projects<br>🤝 I’m looking for help with Learning LLM'S and Building one<br>🌱 I’m currently learning Full stack Web Dev, Databases, Next Js, AWS SAA
 
 
 ## 🌐 Socials:
