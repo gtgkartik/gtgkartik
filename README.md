@@ -20,9 +20,6 @@
  Jira, Asana, Git, Github, Bitbucket, Figma
 ### Cloud: 
  AWS S3, EC2, SES, RDS, Cognito, Amplify, Lambda, Sagemaker, cloudfront, API Gateway, IAM
-### Relevant Coursework: 
- Data Structures & Algorithms, Operating Systems, OOPS, Database Management System,
- Cloud Computing
 
 # 📊 GitHub Stats:
    
