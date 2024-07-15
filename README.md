@@ -1,6 +1,6 @@
 ![Fueler Twitter header - 12](https://github.com/user-attachments/assets/9ab42aa4-3e7d-43dc-9778-6049e7762c8a)
 
-🔭 I’m currently learning, Algorithms, Devops, Java spring boot and Database Modelling<br>👯 I’m looking to collaborate on Web dev projects, AI/ML projects<br>🤝 I’m looking for help with Learning LLM'S and Building one<br>🌱 I’m currently learning Full stack Web Dev, Databases, Next Js, AWS SAA
+🔭 I’m currently learning, Algorithms, Devops, Java spring boot and Database Modelling<br>👯 I’m looking to collaborate on Web dev projects, AI/ML projects<br>🤝 I’m looking for help with Learning LLM'S and Building one
 
 
 ## 🌐 Socials:
