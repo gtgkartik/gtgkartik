@@ -16,9 +16,9 @@
 ### Databases: 
  PostgreSQL, MySQL
 ### Devops: 
- Linux System Administration, Docker, Github Actions, AWS ECR, AWS ECS
+ Linux System Administration, Nginx, Docker, Github Actions, AWS ECR, AWS ECS, Jenkins
 ### Software development tools: 
- Jira, Asana, Git, Github, Bitbucket, Figma
+ Jira, Asana, Git, Github, Bitbucket, Figma, 3D Printing (Fusion 360)
 ### Cloud: 
  AWS S3, EC2, SES, RDS, Cognito, Amplify, Lambda, Sagemaker, cloudfront, API Gateway, IAM
 
